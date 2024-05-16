@@ -1,6 +1,6 @@
-# Ex.No.  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
+# Ex.No:6.2  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 
-### DATE: 
+### DATE: 15-04-2024
 
 ## AIM: 
 ### To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
@@ -47,8 +47,12 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![image](https://github.com/23008112/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/138972470/7e3c43f2-e424-49cc-8ca6-e7d445d757de)
+![image](https://github.com/23008112/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/138972470/54627df3-aca0-4f53-8ac6-0956aefca722)
+![image](https://github.com/23008112/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/138972470/68400919-9909-49dc-ad48-e97bf49bbf12)
+
+### Name:VARNIKA.P
+### Register Number:212223240170
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
